@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TonnyCS
-- 👀 I’m interested working in CSAS.cz and on couple of private projects
+- 👀 I’m working in CSAS.cz and on couple of private projects
 - 🌱 I’m currently learning Swift + SwiftUI
 - 📫 How to reach me on Twitter: [@Tonny\_nm](https://twitter.com/Tonny\_nm)
