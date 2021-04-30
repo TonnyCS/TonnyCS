@@ -28,7 +28,6 @@
 [<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">][youtubeplaylist]
 
 <br />
-<br />
 
 ### Tools
 [<img align="left" alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">][youtubeplaylist]
