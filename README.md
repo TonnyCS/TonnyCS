@@ -3,7 +3,7 @@
 ## I'm currently working on
 - 🌱 New small project of mine - [Plant Mate][pmgithub]
 - 👀 In Czech Republic in CSAS
-- 📫 Teaching myself a lot of new things 🤣
+- 📫 Teaching myself a lot of new things
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-tonnycs.vercel.app//api/spotify)](https://open.spotify.com/user/tonny774)
