@@ -2,7 +2,7 @@
 
 ## I'm currently working on
 - 🌱 New small project of mine - [Plant Mate][pmgithub]
-- 👀 In Czech Republic in CSAS
+- 👀 In Czech Republic working at Etnetera
 - 📫 Teaching myself a lot of new things
 
 ### Spotify Playing 🎧
