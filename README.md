@@ -44,7 +44,7 @@
 
 [pmgithub]: https://github.com/TonnyCS/PlantMate
 [twitter]: https://twitter.com/Tonny\_nm
-[linkedin]: https://www.linkedin.com/in/anton%C3%ADn-%C5%A1imek-9a038a1b4/
+[linkedin]: https://www.linkedin.com/in/anton%C3%ADn-%C5%A1imek-6b7792233/
 [instagram]: https://www.instagram.com/tonny_simek/
 [discord]: https://discordapp.com/users/410887441323655168/
 [youtubeplaylist]: https://www.youtube.com/playlist?list=PLCkQYSNGTIVJ9UKWzF-GYIjYYCim90gAa
