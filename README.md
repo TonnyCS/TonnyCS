@@ -44,7 +44,7 @@
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats-tonnycs.vercel.app/api?username=TonnyCS&show_icons=true&hide_border=true&hide=stars,contribs,issues)">
 
 [pmgithub]: https://github.com/TonnyCS/PlantMate
-[pmgithub]: https://github.com/TonnyCS/QuitCount
+[qcgithub]: https://github.com/TonnyCS/QuitCount
 [twitter]: https://twitter.com/Tonny\_nm
 [linkedin]: https://www.linkedin.com/in/anton%C3%ADn-%C5%A1imek-6b7792233/
 [instagram]: https://www.instagram.com/tonny_simek/
