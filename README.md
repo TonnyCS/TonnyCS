@@ -2,6 +2,7 @@
 
 ## I'm currently working on
 - 🌱 New small project of mine - [Plant Mate][pmgithub]
+- 🪚 Another project of mine - [QuitCount][qcgithub]
 - 👀 In Czech Republic working at Etnetera
 - 📫 Teaching myself a lot of new things
 
@@ -43,6 +44,7 @@
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats-tonnycs.vercel.app/api?username=TonnyCS&show_icons=true&hide_border=true&hide=stars,contribs,issues)">
 
 [pmgithub]: https://github.com/TonnyCS/PlantMate
+[pmgithub]: https://github.com/TonnyCS/QuitCount
 [twitter]: https://twitter.com/Tonny\_nm
 [linkedin]: https://www.linkedin.com/in/anton%C3%ADn-%C5%A1imek-6b7792233/
 [instagram]: https://www.instagram.com/tonny_simek/
