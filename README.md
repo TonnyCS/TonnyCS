@@ -1,52 +1,30 @@
-### Hi there, I'm Anthony 👋
+<div align="center">
 
-## I'm currently working on
-- 🌱 New small project of mine - [Plant Mate][pmgithub]
-- 🪚 Another project of mine - [QuitCount][qcgithub]
-- 👀 In Czech Republic working at Etnetera
-- 📫 Teaching myself a lot of new things
+<h2>Hey, I'm Anthony 👋</h2>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-tonnycs.vercel.app//api/spotify)](https://open.spotify.com/user/tonny774)
+**iOS & KMP engineer** at Etnetera Flow &nbsp;·&nbsp; 🇨🇿 Czech Republic
 
-### Connect with me:
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+Expert in Apple platform development, building cross-platform mobile experiences  
+with Swift and Kotlin Multiplatform. Find out more at **[ansim.dev](https://ansim.dev)**.
 
-<br />
+<br/>
 
-### Languages
-[<img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">][youtubeplaylist]
-[<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">][youtubeplaylist]
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-<br />
+<br/>
 
-### Tools
-[<img align="left" alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">][youtubeplaylist]
-[<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">][youtubeplaylist]
+[![Website](https://img.shields.io/badge/ansim.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://ansim.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Anton%C3%ADn-%C5%A1imek-6b7792233/)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/410887441323655168/)
 
-<br />
-<br />
+</div>
 
 ---
 
-<br />
+### Spotify 🎧
+[![Spotify](https://novatorem-tonnycs.vercel.app//api/spotify)](https://open.spotify.com/user/tonny774)
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats-tonnycs.vercel.app/api?username=TonnyCS&show_icons=true&hide_border=true&hide=stars,contribs,issues)">
+---
 
-[pmgithub]: https://github.com/TonnyCS/PlantMate
-[qcgithub]: https://github.com/TonnyCS/QuitCount
-[twitter]: https://twitter.com/Tonny\_nm
-[linkedin]: https://www.linkedin.com/in/anton%C3%ADn-%C5%A1imek-6b7792233/
-[instagram]: https://www.instagram.com/tonny_simek/
-[discord]: https://discordapp.com/users/410887441323655168/
-[youtubeplaylist]: https://www.youtube.com/playlist?list=PLCkQYSNGTIVJ9UKWzF-GYIjYYCim90gAa
+<img alt="GitHub Stats" src="https://github-readme-stats-tonnycs.vercel.app/api?username=TonnyCS&show_icons=true&hide_border=true&hide=stars,contribs,issues&theme=dark">
