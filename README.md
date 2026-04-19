@@ -2,7 +2,7 @@
 
 <h2>Hey, I'm Anthony 👋</h2>
 
-**iOS & KMP engineer** at Etnetera Flow &nbsp;·&nbsp; 🇨🇿 Czech Republic
+**Apple Platforms & KMP engineer** at Etnetera Flow &nbsp;·&nbsp; 🇨🇿 Czech Republic
 
 Expert in Apple platform development, building cross-platform mobile experiences  
 with Swift and Kotlin Multiplatform. Find out more at **[ansim.dev](https://ansim.dev)**.
